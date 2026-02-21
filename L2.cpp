@@ -1,3 +1,15 @@
+// ASCII values of characters
+
+// Type conversion (int to double, float handling)
+
+// Input & Output operations
+
+// Arithmetic, relational, and logical operators
+
+// Integer vs floating-point division
+
+// Unary operators (increment and decrement)
+
 #include <iostream>
 using namespace std ;
 
@@ -88,15 +100,8 @@ int a = 10 ;
 
 int b = --a ;
 
-
 cout << b << "\n"; 
 cout << a << "\n" ; 
-
-
-
-
-
-
 
     return 0;
 
